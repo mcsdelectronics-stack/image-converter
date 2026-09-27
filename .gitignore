@@ -1,0 +1,20 @@
+# generated test output and fixtures
+testdata/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# editors / os
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# local scratch
+*.log
